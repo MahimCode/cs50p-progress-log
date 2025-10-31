@@ -57,7 +57,11 @@ The goal of this repository is to:
 
 ---
 
-## 📜 License
-This repository is shared for **learning and reference purposes only**.  
-All content © Mahim, 2025.  
-Problem set solutions remain private and are not included here.
+## 📜 License & Acknowledgments
+This repository contains my **personal practice programs** inspired by Harvard's [CS50P](https://cs50.harvard.edu/python) course.
+
+- All code in this repository is written by me for learning and practice purposes.  
+- Problem set solutions are intentionally excluded to comply with CS50’s academic honesty policy.  
+- This repository is shared for **educational and reference purposes only**.  
+
+© Mahim, 2025. CS50 and all course materials are © President and Fellows of Harvard College.
