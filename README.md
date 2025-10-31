@@ -16,44 +16,27 @@ The goal of this repository is to:
 
 ---
 
-## 🗂️ Repository Structure
-
-cs50p-practice/
-├── 01_basics/ # Basics like hello world and simple programs
-│ ├── hello.py
-│ ├── calculator.py
-├── 02_conditionals/ # Programs using if/else, boolean logic
-│ ├── parity.py
-│ ├── grading.py
-├── 03_loops/ # Loops and iterations
-│ ├── mario.py
-│ ├── patterns.py
-├── 04_functions/ # Functions and reusable code
-│ ├── factorial.py
-│ ├── is_prime.py
-├── experiments/ # Personal experiments and mini-projects
-│ ├── mini_projects.py
-├── README.md
-└── .gitignore
-
-
-
-
 - Each folder represents a **topic or week** from the course  
 - `experiments/` contains small personal projects and code explorations  
 - `.gitignore` ensures sensitive or graded content (like `problem_sets/`) is never tracked
 
 ---
 
-## ✅ Progress
+## 🔄 Progress
 
-| Week | Topic         | Status        |
-|------|---------------|---------------|
-| 0    | Basics        | ✅ Completed  |
-| 1    | Conditionals  | ✅ Completed  |
-| 2    | Loops         | 🔄 In Progress|
-| 3    | Functions     | ⏳ Upcoming   |
-| 4    | Libraries     | ⏳ Upcoming   |
+| Week | Topic                      | Status        |
+|------|-----------------------------|---------------|
+| 0    | Basics                     | ✅ Completed  |
+| 1    | Conditionals               | ✅ Completed  |
+| 2    | Loops                      | 🔄 In Progress|
+| 3    | Functions                  | ⏳ Upcoming   |
+| 4    | Libraries                  | ⏳ Upcoming   |
+| 5    | Unit Tests                 | ⏳ Upcoming   |
+| 6    | File I/O                   | ⏳ Upcoming   |
+| 7    | Regular Expressions         | ⏳ Upcoming   |
+| 8    | Object-Oriented Programming | ⏳ Upcoming   |
+| 9    | Et Cetera                  | ⏳ Upcoming   |
+
 
 *(I’ll keep updating this table as I progress through the course.)*
 
