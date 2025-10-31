@@ -1,35 +1,63 @@
+# 🐍 CS50P Practice – My Python Learning Journey
 
-Each folder represents a **topic or week** from the course, containing short programs I wrote to reinforce the lessons.
+Welcome to my **CS50P practice repository**, where I document my journey learning Python through Harvard’s *CS50’s Introduction to Programming with Python*.  
+This repo contains my personal practice programs, experiments, and notes to strengthen my understanding of Python.
+
+> 🛑 **Note:** All official CS50P problem set solutions are **excluded** from this repository and are listed in `.gitignore` to follow the course’s academic honesty policy.
+
+---
+
+## 📘 About
+The goal of this repository is to:
+- Practice Python concepts in small, manageable programs  
+- Reinforce problem-solving and logical thinking  
+- Track my growth and learning progress over time  
+- Build a clean, well-organized repository that showcases my learning journey
+
+---
+
+## 🗂️ Repository Structure
+
+
+
+
+
+- Each folder represents a **topic or week** from the course  
+- `experiments/` contains small personal projects and code explorations  
+- `.gitignore` ensures sensitive or graded content (like `problem_sets/`) is never tracked
 
 ---
 
 ## ✅ Progress
-| Week | Topic | Status |
-|------|--------|--------|
-| 0 | Basics | ✅ Completed |
-| 1 | Conditionals | ✅ Completed |
-| 2 | Loops | 🔄 In progress |
-| 3 | Functions | ⏳ Upcoming |
-| 4 | Libraries | ⏳ Upcoming |
 
-*(I’ll keep updating this table as I move forward!)*
+| Week | Topic         | Status        |
+|------|---------------|---------------|
+| 0    | Basics        | ✅ Completed  |
+| 1    | Conditionals  | ✅ Completed  |
+| 2    | Loops         | 🔄 In Progress|
+| 3    | Functions     | ⏳ Upcoming   |
+| 4    | Libraries     | ⏳ Upcoming   |
 
----
-
-## 🧰 Tools
-- Python 3.11+
-- Visual Studio Code / VS Code
-- Git & GitHub for version control
+*(I’ll keep updating this table as I progress through the course.)*
 
 ---
 
-## 💬 Notes
-Feel free to explore the code — these are my personal practice snippets and experiments while learning Python through CS50P.  
-If you’re taking the course too, I highly recommend **writing your own versions** of the problems to learn deeply.  
+## 🧰 Tools & Environment
+- **Python 3.11+** – main programming language  
+- **Visual Studio Code** – code editor  
+- **Git & GitHub** – version control  
+- **Virtual environments** – optional for experimenting with packages
 
 ---
 
-### 📜 License
-This repository is shared for learning and reference purposes.  
+## 💬 Learning Notes
+- Every program in this repo is a small, self-contained practice snippet  
+- Encourage others taking CS50P to **write their own solutions** — this is the best way to learn  
+- Code is structured to make it easy to revisit and understand later
+
+---
+
+## 📜 License
+This repository is shared for **learning and reference purposes only**.  
 All content © Mahim, 2025.  
 Problem set solutions remain private and are not included here.
