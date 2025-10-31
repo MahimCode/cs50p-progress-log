@@ -18,6 +18,23 @@ The goal of this repository is to:
 
 ## 🗂️ Repository Structure
 
+cs50p-practice/
+├── 01_basics/ # Basics like hello world and simple programs
+│ ├── hello.py
+│ ├── calculator.py
+├── 02_conditionals/ # Programs using if/else, boolean logic
+│ ├── parity.py
+│ ├── grading.py
+├── 03_loops/ # Loops and iterations
+│ ├── mario.py
+│ ├── patterns.py
+├── 04_functions/ # Functions and reusable code
+│ ├── factorial.py
+│ ├── is_prime.py
+├── experiments/ # Personal experiments and mini-projects
+│ ├── mini_projects.py
+├── README.md
+└── .gitignore
 
 
 
