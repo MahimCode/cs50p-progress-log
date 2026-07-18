@@ -1,10 +1,18 @@
 WORDS = {"PAIR": 4, "HAIR": 4, "CHAIR": 5, "GRAPHIC": 7}
 
 def main():
-    print("Welcome to Spelling Bee 🐝")
-    print("Rules:")
+    print("=" * 40)
+    print(" 🐝 WELCOME TO SPELLING BEE 🐝 ".center(40))
+    print("=" * 40)
+    print("Rules:\n")
     print("- Words must be at least 4 letters long.")
-    print("- Your letters are: A I P C R H G")
+    print("- Your letters are given below, with the center letter in brackets.\n")
+    print("         R       I ")
+    print("          \\     / ")
+    print("       p - [ A ] - C ")
+    print("          /     \\ ")
+    print("         H       G \n")
+
     print("- Type 'quit' anytime to stop.\n")
 
     total_score = 0
